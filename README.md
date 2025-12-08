@@ -35,7 +35,7 @@
 </div>
 # Portfólio Futurista & Soft Dark
 
-[Clique aqui para visitar meu Portfólio](https://img.shields.io/badge/Site-Online-brightgreen?style=for-the-badge&logo=github)](https://mgbcode.github.io/portfolio-MGBcode/)
+🔗 **Acesse o projeto online:** Clique aqui para visitar meu Portfólio(https://seu-usuario.github.io/meu-portfolio-britto/)
 
 ---
 ###
