@@ -35,7 +35,7 @@
 </div>
 # Portfólio Futurista & Soft Dark
 
-🔗 **Acesse o projeto online:** Clique aqui para visitar meu Portfólio(https://seu-usuario.github.io/meu-portfolio-britto/)
+🔗 **Acesse o projeto online:** Clique aqui para visitar meu Portfólio(https://mgbcode.github.io/portfolio-MGBcode/))
 
 ---
 ###
